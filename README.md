@@ -1,1 +1,1 @@
-Initial Spring Boot to-do list project
+Initial Spring Boot to-do list API
